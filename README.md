@@ -33,3 +33,9 @@ A statistical paradox where a trend evident in a number of groups reverses when 
 3. insert `jupyter notebook`
 
 4. A web browser is automatically initiated, where you can see the file `Tasks.ipynb`
+
+****
+
+#### License
+
+This repository was enrolled under MIT license. Please click [**here**](https://github.com/G00387867/FDA/blob/main/LICENSE) for further information.
