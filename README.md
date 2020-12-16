@@ -2,7 +2,9 @@
 
 This document (repository) contains assessment for **Fundamentals of Data Analysis module**.
 
-#### This document consists of 4 Tasks:
+#### This document consists of 4 Tasks
+
+***
 
 > Counts:
 
