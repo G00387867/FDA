@@ -1,8 +1,8 @@
 ## FDA (Fundamentals of Data Analysis)
 
-Tasks assessment for Fundamentals of Data Analysis module
+This document (repository) contains assessment for **Fundamentals of Data Analysis module**.
 
-This document consists of 4 assessments:
+#### This document consists of 4 Tasks:
 
 > Counts:
 
@@ -21,9 +21,10 @@ A function can be used to simulate flipping a coin with a 50/50 chance of heads 
 A statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Using numpy to create four data sets, each with an x array and a corresponding y array, to demonstrate Simpson’s paradox.
 
 
-To run the Jupyter Notebook:
+#### To run the Jupyter Notebook:
+***
 
-Initially you should have no issues to view the contents of the file Tasks.ipynb that contains the main body of work. If you would like to interact and edit the contents please be advised that you should have the following requirements:
+- Initially you should have no issues to view the contents of the file Tasks.ipynb that contains the main body of work. If you would like to interact and edit the contents please be advised that you should have the following requirements:
 
 1. Download and Install Anaconda latest release from it's official and licensed source. The anaconda package includes the python code and the packages (libraries) needed for the computation and visualisation of the contetnts of the Tasks.ipynb file.
 
