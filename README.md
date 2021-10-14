@@ -21,7 +21,13 @@ A function can be used to simulate flipping a coin with a 50/50 chance of heads 
 > Simpson’s paradox:
 
 A statistical paradox where a trend evident in a number of groups reverses when the groups are combined into one big data set. Using numpy to create four data sets, each with an x array and a corresponding y array, to demonstrate Simpson’s paradox.
+***
 
+## Quick steps
+
+You can view the notebook at the following URL:
+
+[![nbviewer](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.org/github/G00387867/FDA/blob/main/Tasks.ipynb)
 
 #### To run the Jupyter Notebook
 ***
